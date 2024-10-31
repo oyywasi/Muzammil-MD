@@ -63,7 +63,8 @@
       "util": "^0.12.4",
       "wa-sticker-formatter": "^1.6.0",
       "youtubei.js": "latest",
-      "ytdl-secktor": "npm:ytdl-core@latest"
+      "ytdl-secktor": "npm:@distube/ytdl-core",
+      "wasi":"npm:@distube/ytdl-core"
    },
    "directories": {
       "lib": "lib",
