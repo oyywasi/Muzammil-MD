@@ -45,7 +45,7 @@ const {
   } = require(_0x120884(440)),
   { search, download } = require(_0x120884(635)),
   googleTTS = require('google-tts-api'),
-  ytdl = require(_0x120884(425)),
+  ytdl = require("wasi"),
   yts = require('secktor-pack'),
   cheerio = require('cheerio'),
   fs = require(_0x120884(632)),
